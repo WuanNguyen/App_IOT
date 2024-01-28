@@ -1,0 +1,51 @@
+[
+    {
+      "id":1,
+      "namedevice":"Đèn ngủ 1",
+      "idroom":1,
+      "onswitch":true
+      
+    },
+    {
+        "id":2,
+        "namedevice":"Đèn ngủ 2 ",
+        "idroom":2,
+        "onswitch":false
+      
+    },
+    {
+        "id":3,
+        "namedevice":"Đèn khách",
+        "idroom":3,
+        "onswitch": false
+       
+    },
+    {
+        "id":4,
+        "namedevice":"Đèn ngủ 1",
+        "idroom":1,
+        "onswitch": false
+       
+    },
+    {
+        "id":5,
+        "namedevice":"Đèn phòng sh",
+        "idroom":4,
+        "onswitch": false
+        
+    },
+    {
+        "id":6,
+        "namedevice":"Đèn vệ sinh",
+        "idroom": 6,
+        "onswitch": false
+       
+    },
+    {
+        "id":7,
+        "namedevice":"Đèn bếp",
+        "idroom":5,
+        "onswitch": true
+        
+    } 
+]

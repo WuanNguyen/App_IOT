@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "862823942685",
+    "firebase_url": "https://appiot-da23c-default-rtdb.firebaseio.com",
+    "project_id": "appiot-da23c",
+    "storage_bucket": "appiot-da23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862823942685:android:46629d5b7cf612c8a6d4f4",
+        "android_client_info": {
+          "package_name": "com.example.app_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDquZb8B0iEuypMauAvbP2z5uQHXUjfiq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862823942685:android:b11d84681b10c9bea6d4f4",
+        "android_client_info": {
+          "package_name": "com.example.appiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDquZb8B0iEuypMauAvbP2z5uQHXUjfiq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

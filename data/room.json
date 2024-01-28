@@ -1,0 +1,26 @@
+[
+    {
+        "idroom":1,
+        "nameroom":"Phòng ngủ 1"
+    },
+    {
+        "idroom":2,
+        "nameroom":"Phòng ngủ 2"
+    },
+    {
+        "idroom":3,
+        "nameroom":"Phòng khách"
+    },
+    {
+        "idroom":4,
+        "nameroom":"Phòng sinh hoạt"
+    },
+    {
+        "idroom":5,
+        "nameroom":"Phòng bếp"
+    },
+    {
+        "idroom":6,
+        "nameroom":"Nhà vệ sinh"
+    }
+  ]
